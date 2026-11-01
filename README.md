@@ -1,7 +1,11 @@
-# How-to Guide: Making a cup of tea
-To make **one cup of tea**, follow these sequential steps:
-1. Heat half a cup of water in a vessel.
-2. Add some grated ginger.
-3. Add 1 teaspoon sugar and 1 teaspoon tea leaves.
-5. Boil and strain the mixture.
-6. Enjoy your tea!
+# My Technical Documentation Portfolio
+
+Welcome to my public documentation workspace. Below is a collection of task-based user guides and standard operating procedures (SOPs) structured for modern software environments.
+
+### Available User Guides
+
+* [How-to Guide: Making a Cup of Tea](Tea-making.md) — A foundational example of sequential, task-based user instructions.
+* [How-to Guide: Scheduling Messages in Slack](slack-scheduling.md) — A professional SaaS platform guide utilizing bolded user interface markers and prerequisite frameworks.
+
+---
+Maintained using a modern Docs-as-Code development pipeline.
